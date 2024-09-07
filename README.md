@@ -1,3 +1,18 @@
+## Features 
+
+![Screenshot 2024-09-07 191813](https://github.com/user-attachments/assets/34cc96f6-410f-44fb-86e6-372ec2e1300d)
+
+*  Server Components(default)
+*  Client Components
+   When building interactive UI elements like forms, buttons, or any component that relies on browser-specific APIs (like window, localStorage, or hooks like useState and useEffect), you need to declare these 
+   components as Client Components.
+   
+  Add the "use client" Directive:
+
+*  Routing
+   Next.js uses a file-based routing system where the file structure of the pages directory defines the routes. For example, pages/about.js would correspond to the /about route.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
